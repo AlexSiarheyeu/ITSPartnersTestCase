@@ -143,8 +143,8 @@
             <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
             <constraints>
                 <constraint firstItem="yoi-YB-k9U" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="Ker-ME-Za5"/>
-                <constraint firstItem="yoi-YB-k9U" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="248" id="ciK-ix-TIi"/>
-                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="yoi-YB-k9U" secondAttribute="bottom" constant="265" id="mk4-KL-044"/>
+                <constraint firstItem="yoi-YB-k9U" firstAttribute="top" relation="lessThanOrEqual" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="248" id="ciK-ix-TIi"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" relation="lessThanOrEqual" secondItem="yoi-YB-k9U" secondAttribute="bottom" constant="265" id="mk4-KL-044"/>
                 <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="yoi-YB-k9U" secondAttribute="trailing" constant="20" id="rDO-2P-aT4"/>
             </constraints>
             <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>

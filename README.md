@@ -14,3 +14,5 @@ Test Case (ITSPartners)
 - использование storyboard
 - UI тривиальный
 - Поддержка отображения загрузки данных
+
+![](gif.gif)

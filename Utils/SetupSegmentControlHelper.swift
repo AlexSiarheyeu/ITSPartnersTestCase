@@ -10,7 +10,7 @@ import UIKit
 
 protocol SetupSegmentControlProtocol {
      func setupSegmentedControls(ageControl: UISegmentedControl, genderControl: UISegmentedControl)
-    var internalNavBar: UINavigationController { get set }
+     var internalNavBar: UINavigationController { get set }
 }
 
 class SetupSegmentControlHelper: SetupSegmentControlProtocol {

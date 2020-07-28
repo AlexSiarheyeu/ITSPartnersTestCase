@@ -15,4 +15,5 @@ Test Case (ITSPartners)
 - UI тривиальный
 - Поддержка отображения загрузки данных
 
+My solution:
 ![](gif.gif)
